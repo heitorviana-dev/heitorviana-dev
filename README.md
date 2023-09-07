@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Heitor Viana 🖐️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-viana-386445290/)
 
 ## Minhas Habilidades:
 
