@@ -22,4 +22,4 @@
 </div>
 
 <br>
-Apaixonado por tecnologia e ciências exatas e sempre disposto a aprender.
+Apaixonado por tecnologia, ciências exatas e sempre disposto a aprender.
