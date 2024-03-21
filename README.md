@@ -3,6 +3,11 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-viana-386445290/)
 
+##Contador de visitas:
+<div align="center">
+<br><p align="center"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{heitorviana-dev}/count.svg"/></p> 
+
 ## Minhas Habilidades:
 
 <div style="display: inline_block"><br/>
