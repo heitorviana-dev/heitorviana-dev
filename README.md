@@ -1,5 +1,5 @@
 
-### Olá, seja bem vindo! Meu nome é Heitor Viana!
+## Olá, seja bem vindo! Meu nome é Heitor Viana!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-viana-386445290/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorsoaresviana@gmail.com)
@@ -7,7 +7,7 @@
 
 ## Minhas Habilidades:
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" align="center"><br/>
     <img align = "center" alt="JavaScipt" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align = "center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align = "center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +25,7 @@
 <br>
 
 ## Estudando no momento:
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" align="center"><br/>
     <img align = "center" alt="JavaScipt" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align = "center" alt="Node" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align = "center" alt="Express.js" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
