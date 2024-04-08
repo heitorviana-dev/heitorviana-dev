@@ -17,21 +17,6 @@
     <img align = "center" alt="Node" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align = "center" alt="MongoDB" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align = "center" alt="Express.js" src= "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    
-    
-    
-    
-</div>
-<br>
-<a href="https://github.com/heitorviana-dev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heitorviana-dev&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/heitorviana-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorviana-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=320" />
-</a>
-<a href="https://github.com/heitorviana-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorviana-dev&theme=dark&hide_border=false" />
-</a>
 
 
 ## Estudando no momento:
