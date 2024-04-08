@@ -29,8 +29,10 @@
 <a href="https://github.com/heitorviana-dev/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorviana-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=320" />
 </a>
+<a href="https://github.com/heitorviana-dev/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorviana-dev&theme=dark&hide_border=false" />
+</a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=heitorviana-dev&theme=dark&hide_border=false)<br/>
 
 ## Estudando no momento:
 <div style="display: inline_block" align="center"><br/>
