@@ -23,7 +23,7 @@
     
 </div>
 <br>
-<a href="https://github.com/heitorviana-dev/github-readme-stats">
+<!-- <a href="https://github.com/heitorviana-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heitorviana-dev&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/heitorviana-dev/convoychat">
@@ -31,7 +31,11 @@
 </a>
 <a href="https://github.com/heitorviana-dev/convoychat">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitorviana-dev&theme=dark&hide_border=false" />
-</a>
+</a> -->
+
+![](https://github-readme-stats.vercel.app/api?username=heitorviana-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=heitorviana-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorviana-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Estudando no momento:
@@ -52,3 +56,8 @@
 <br>
 Apaixonado por tecnologia, ciências exatas e sempre disposto a aprender.
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=heitorviana-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
