@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,nest,postgresql,firebase,express,prisma,dart" width="30%">
 
 
-## Estudando no momento:
+## Currently Studying :
 <div style="display: inline_block" align="center"><br/>
     <img src="https://skillicons.dev/icons?i=nest,postgresql,firebase,prisma,next" width="30%">
     
