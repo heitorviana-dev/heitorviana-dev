@@ -15,7 +15,7 @@
 
 ## Currently Studying :
 <div style="display: inline_block" align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=nest,postgresql,firebase,prisma,next" width="30%">
+    <img src="https://skillicons.dev/icons?i=nest,postgresql,firebase,prisma,next,supabase" width="30%">
     
     
 </div>
