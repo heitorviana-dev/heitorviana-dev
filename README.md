@@ -23,10 +23,7 @@
 ## Github status:
 
 <br>
-<a href="https://github.com/heitorviana-dev/github-readme-stats">
-    <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api?username=heitorviana-dev&theme=dark" width="46%" alt="stats graph" />
-</a>
 <a href="https://github.com/heitorviana-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorviana-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=320" />
+ <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=heitorviana-dev&theme=dark&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
 </a>
 
