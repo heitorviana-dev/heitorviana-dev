@@ -10,12 +10,12 @@
 
 <h2 align="center">My skills:</h2>
 <div style="display: inline_block" align="center"><br/>
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,nest,postgresql,firebase,express,prisma,dart" width="30%">
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,nest,postgresql,firebase,express,prisma,supabase" width="30%">
 
 
 ## Currently Studying :
 <div style="display: inline_block" align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=nest,postgresql,firebase,prisma,next,supabase" width="30%">
+    <img src="https://skillicons.dev/icons?i=nest,pytorch,tensorflow" width="30%">
     
     
 </div>
