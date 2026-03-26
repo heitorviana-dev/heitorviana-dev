@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Heitor+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Heitor+Viana+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
 </a>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-viana-386445290/)
