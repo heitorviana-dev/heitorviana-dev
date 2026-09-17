@@ -7,8 +7,6 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorsoaresviana@gmail.com)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heitorviana-dev&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <h2 align="center">My skills:</h2>
 <div style="display: inline_block" align="center"><br/>
